@@ -1,0 +1,32 @@
+{
+  "HTML To Build__ For The Website.": {
+    "answer_1": "Game",
+    "answer_2": "Style",
+    "answer_3": "Actions",
+    "right_answer": "Scruture"
+  },
+  "JavaScript Is__ Lunguage": {
+    "answer_1": "Arabic",
+    "answer_2": "English",
+    "answer_3": "Programming",
+    "right_answer": "Scripting"
+  },
+  "React Native For build": {
+    "answer_1": "Wesite Page",
+    "answer_2": "The Structure",
+    "answer_3": "Android App",
+    "right_answer": "App For Android And IOS"
+  },
+  "React Js Is __ Library": {
+    "answer_1": "PHP",
+    "answer_2": "Python",
+    "answer_3": "Java",
+    "right_answer": "JavaScript"
+  },
+  "React Native Use By: ": {
+    "answer_1": "Java",
+    "answer_2": "Python",
+    "answer_3": "PHP",
+    "right_answer": "JavaScript"
+  }
+}
